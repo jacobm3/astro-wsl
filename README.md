@@ -1,1 +1,1 @@
-# template-gitignore
+# Astro WSL Setup
