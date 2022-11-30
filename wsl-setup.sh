@@ -12,7 +12,7 @@ export DEBIAN_FRONTEND=noninteractive
 
 
 sudo apt-get update
-sudo apt-get upgrade 
+sudo apt-get upgrade -y
 sudo apt-get install -y nmap bzip2 netcat net-tools git htop sysstat iotop vim-nox python3-pip jq lm-sensors
 
 
